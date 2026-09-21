@@ -16,9 +16,7 @@ Static and Dynamic Analysis of Python Software
 
 ## Authors
 
-Daphné Larrivain
-<daphne.larrivain@ecole.ensicaen.fr>
-ENSICAEN, Caen, France
+The person behind this GitHub profile.
 
 Shinhyung Yang
 <shinhyung.yang@email.uni-kiel.de>
